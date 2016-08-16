@@ -1,0 +1,88 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "renatoluizcarvalho@gmail.com",
+    "longName": "SlackPebble",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/slack28white.png",
+                "name": "IMAGES_SLACK28WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/slack28black.png",
+                "menuIcon": true,
+                "name": "IMAGES_SLACK28BLACK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/slack16white.png",
+                "name": "IMAGES_SLACK16WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/slack16black.png",
+                "name": "IMAGES_SLACK16BLACK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/group28white.png",
+                "name": "IMAGES_GROUP28WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/group28black.png",
+                "name": "IMAGES_GROUP28BLACK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/group16white.png",
+                "name": "IMAGES_GROUP16WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/group16black.png",
+                "name": "IMAGES_GROUP16BLACK_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "SlackPebble",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "712e2d9d-b773-4340-861e-ebed35c3be21",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
